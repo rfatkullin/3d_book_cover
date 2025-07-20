@@ -55,6 +55,7 @@ h1 {
 
 label {
   margin-bottom: 5px;
+  min-width: 400px;
   font-weight: 500;
   color: #0A2540;
 }
